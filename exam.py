@@ -1,20 +1,4 @@
-'''def sum(str):
-        sum=0
-        for x in str:
-            if x.isdigit() == True:
-                z = int(x)
-                sum = sum + z
-                return sum
-str1 = input("enter string:")
-print(sum(str1))'''
-#a=input("enter num1")
-#print(a)
-#b=input("enter num2")
-#print(b)
-#a,b=int(a),int(b)
-#b=int(b)
-#sum = a+b
-#print(sum)  
+ 
 from audioop import avg
 from html.entities import name2codepoint
 import re
